@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "titulo": "Primeiro Artigo",
+    "autor": "João Silva",
+    "data": "2025-07-29",
+    "conteudo": "Conteúdo completo do primeiro artigo de exemplo."
+  },
+  {
+    "id": "2",
+    "titulo": "Segundo Artigo",
+    "autor": "Maria Souza",
+    "data": "2025-07-28",
+    "conteudo": "Aqui está o conteúdo do segundo artigo de exemplo."
+  }
+]
